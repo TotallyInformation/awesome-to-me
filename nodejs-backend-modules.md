@@ -20,7 +20,8 @@ Complete servers ready to use.
   
   I've made some contributions to new nodes, the forums, documentation and I use this for my Home Automation setup.
 
-- [TiddlyWiki](http://tiddlywiki.com/) - A reusable non-linear personal web notebook. Also has standalone and mobile versions.
+- [TiddlyWiki](http://tiddlywiki.com/) - A reusable non-linear personal web notebook. 
+  Also has standalone and mobile versions.
 
   Used this for some years not only as a notebook but also for weekly project reporting and other tasks. Also made some contributions
   to it. Great tool, a little complex to get your head round initially if you want to make full use of its capabilities.
