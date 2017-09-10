@@ -19,7 +19,7 @@ All of these applications work on Windows 10.
 Tools for working with general business information.
 
 - [Microsoft Office](https://products.office.com/en-gb/whats-new-office) - Love or hate it, 
-  it is the defacto standard and best of the bunch. 
+  it is the de facto standard and best of the bunch. 
   
   Incredibly powerful if you actually invest time in *learning* it. Most people don't even if they use it
   constantly and so never really get the benefit of the time it can save if used correctly.
@@ -49,7 +49,7 @@ Tools to build or prototype other applications and services
   More recently gaining popularity for creating web interfaces, bots and manipulating data. Donated to the
   [JavaScript Foundation](https://js.foundation/community/projects) but still gets developer time from IBM.
   
-  A truely awesome tool. Even if you have little programming experience, you will find you can do a lot with this.
+  A truly awesome tool. Even if you have little programming experience, you will find you can do a lot with this.
   I've made some contributions to new nodes, the forums, documentation and I use this for my Home Automation setup.
 
 - [TiddlyWiki](http://tiddlywiki.com/) - A reusable non-linear personal web notebook. 
@@ -65,7 +65,7 @@ Tools to get hold of, alter and write out data (Extract, Transform, Load - ETL)
 - Microsoft Excel - v2016 now contains [PowerQuery](https://support.office.com/en-gb/article/Introduction-to-Microsoft-Power-Query-for-Excel-6e92e2f4-2079-4e1f-bad5-89f6269cd605) which is a very powerful point & click (& query language) based data manipulation capability.
 
 ## Corrections and Contributions
-- Corrections are always gratefully recieved
+- Corrections are always gratefully received
 - Please check for duplicates before suggesting a new contribution
 - Either create a [pull request](https://github.com/TotallyInformation/awesome-to-me/pulls) or [raise an issue](https://github.com/TotallyInformation/awesome-to-me/issues)
 - Keep descriptions short, simple and unbiased

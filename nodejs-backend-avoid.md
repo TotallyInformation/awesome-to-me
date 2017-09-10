@@ -25,11 +25,11 @@ Complex modules that can be used to build systems and services
   At first glance seems like a really nice tool. However, there is basically **no security** at all 
   and the authors [don't seem to understand why that might be an issue](https://github.com/dashersw/cote/issues/53)!
   
-  I'll be avoiding this one thanks, there are enough securty problems around, I don't want to add to them. 
+  I'll be avoiding this one thanks, there are enough security problems around, I don't want to add to them. 
   Last checked 2017-09-10
 
 ## Corrections and Contributions
-- Corrections are always gratefully recieved
+- Corrections are always gratefully received
 - Please check for duplicates before suggesting a new contribution
 - Either create a [pull request](https://github.com/TotallyInformation/awesome-to-me/pulls) 
   or [raise an issue](https://github.com/TotallyInformation/awesome-to-me/issues)

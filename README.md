@@ -17,7 +17,7 @@ Check my lists for additional lists. These are ones that don't (yet) fit into my
 - [Awesome Self-Hosted](https://github.com/Kickball/awesome-selfhosted) - 
   A list of Free Software network services and web applications which can be hosted locally.
 
-  Includes email, web serevrs, Groupware, IM and much more.
+  Includes email, web servers, Groupware, IM and much more.
   
 - [Awesome Bots](https://github.com/BotCube/awesome-bots) - Lots of resources related to Bots.
 
@@ -25,7 +25,7 @@ Check my lists for additional lists. These are ones that don't (yet) fit into my
   Mainly resources for simulators, board design, forums, parts search.
 
 ## Corrections and Contributions
-- Corrections are always gratefully recieved
+- Corrections are always gratefully received
 - Please check for duplicates before suggesting a new contribution
 - Either create a [pull request](https://github.com/TotallyInformation/awesome-to-me/pulls) or [raise an issue](https://github.com/TotallyInformation/awesome-to-me/issues)
 - Keep descriptions short, simple and unbiased

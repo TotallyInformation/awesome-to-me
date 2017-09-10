@@ -15,7 +15,7 @@ They show serious flaws of some kind. Perhaps being unstable, are insecure or ma
 Nothing to report yet.
 
 ## Corrections and Contributions
-- Corrections are always gratefully recieved
+- Corrections are always gratefully received
 - Please check for duplicates before suggesting a new contribution
 - Either create a [pull request](https://github.com/TotallyInformation/awesome-to-me/pulls) 
   or [raise an issue](https://github.com/TotallyInformation/awesome-to-me/issues)
