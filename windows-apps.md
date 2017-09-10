@@ -4,7 +4,7 @@ I find awesome for some other reason. That's not to say that you would find them
 this is only my opinion not a professional recommendation.
 All of these applications work on Windows 10. 
 
-## Table of Contents
+## Contents
 - [Awesome List of Windows Applications](#awesome-list-of-windows-applications)
   - [Other Lists](#other-lists)
   - [Office](#office)

@@ -5,7 +5,7 @@ this is only my opinion not a professional recommendation.
 
 They show serious flaws of some kind. Perhaps being unstable, are insecure or maybe even just backed by dodgy morals.
 
-## Table of Contents
+## Contents
 - [Node.js Backend Modules to Avoid](#nodejs-backend-modules-to-avoid)
   - [Servers](#servers)
   - [Frameworks](#frameworks)

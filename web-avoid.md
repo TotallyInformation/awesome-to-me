@@ -5,7 +5,7 @@ this is only my opinion not a professional recommendation.
 
 They show serious flaws of some kind. Perhaps being unstable, are insecure or maybe even just backed by dodgy morals.
 
-### Table of Contents
+## Contents
 - [Web Applications to Avoid](#web-applications-to-avoid)
   - [General](#general)
   - [Home Automation (IoT)](#home-automation-iot)

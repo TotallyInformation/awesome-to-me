@@ -3,7 +3,7 @@ This is a list of backend (server-side) Node.js modules that I either already us
 I find awesome for some other reason. That's not to say that you would find them useful or even usable, this is only my opinion not a 
 professional recommendation.
 
-## Table of Contents
+## Contents
 - [Awesome List of Node.js Backend Modules](#awesome-list-of-nodejs-backend-modules)
   - [Other Lists](#other-lists)
   - [Servers](#servers)
