@@ -8,7 +8,7 @@ They show serious flaws of some kind. Perhaps being unstable, are insecure or ma
 ### Table of Contents
 - [Web Applications to Avoid](#web-applications-to-avoid)
   - [General](#general)
-  - [Home Automation - IoT][#home-automation-iot]
+  - [Home Automation (IoT)](#home-automation-iot)
 - [Contributing](#corrections-and-contributions)
 - [License](#license)
 
