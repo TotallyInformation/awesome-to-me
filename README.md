@@ -3,11 +3,21 @@ Awesome style lists of things useful or interesting to me. Also awesome lists of
 
 To best view these lists, please use the [Github Pages version](https://totallyinformation.github.io/awesome-to-me/).
 
-## List of Lists
+## List of my Lists
 - [Awesome List of Node.js Backend Modules](nodejs-backend-modules.md)
 - [Node.js Backend Modules to Avoid](nodejs-backend-avoid.md)
 
-### Corrections and Contributions
+## Other People's Lists
+Check my lists for additional lists. These are ones that don't (yet) fit into my own but I want to keep to hand for future use.
+- [Awesome Self-Hosted](https://github.com/Kickball/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted locally.
+
+  Includes email, web serevrs, Groupware, IM and much more.
+  
+- [Awesome Bots](https://github.com/BotCube/awesome-bots) - Lots of resources related to Bots.
+
+- [Awesome Electronics](https://github.com/monostable/awesome-electronics) - Mainly resources for simulators, board design, forums, parts search.
+
+## Corrections and Contributions
 - Corrections are always gratefully recieved
 - Please check for duplicates before suggesting a new contribution
 - Either create a [pull request](https://github.com/TotallyInformation/awesome-to-me/pulls) or [raise an issue](https://github.com/TotallyInformation/awesome-to-me/issues)
