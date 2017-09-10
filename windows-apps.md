@@ -1,5 +1,5 @@
 # Awesome List of Windows Applications
-This is a list of Windows applications already use or think that I might find useful in the future or that 
+This is a list of Windows applications that I already use or think that I might find useful in the future or that 
 I find awesome for some other reason. That's not to say that you would find them useful or even usable, 
 this is only my opinion not a professional recommendation.
 All of these applications work on Windows 10. 
@@ -18,7 +18,23 @@ All of these applications work on Windows 10.
 ### Office
 Tools for working with general business information.
 
-- Microsoft Office - Love or hate it, it is the defacto standard and best of the bunch.
+- [Microsoft Office](https://products.office.com/en-gb/whats-new-office) - Love or hate it, 
+  it is the defacto standard and best of the bunch. 
+  
+  Incredibly powerful if you actually invest time in *learning* it. Most people don't even if they use it
+  constantly and so never really get the benefit of the time it can save if used correctly.
+
+  Not cheap and Microsoft heavily push you towards a subscription model.
+
+- [LibreOffice](https://www.libreoffice.org/) - Forked from OpenOffice when that came under Oracle's control.
+  Has some useful tools and can be good for fixing Office documents when Office breaks things!
+
+  Nowhere as easy to use or as powerful as MS Office in my view. But it is **free** for personal use.
+
+  While in theory also free for corporate/enterprise use, you should certainly expect to have to invest money
+  not only in training (likely a lot more than for MS Office) but also for getting fixes and improvements in a
+  timely fashion. Look carefully at the experiences of the German government before committing to this instead
+  of MS Office.
 
 ### Development
 Tools to build or prototype other applications and services

@@ -22,7 +22,7 @@ Complex modules that can be used to build systems and services
   "cote lets you write zero-configuration microservices in Node.js 
   without nginx, haproxy, redis, rabbitmq or anything else. It is batteries — and chargers! — included."*
   
-  At first glance seems like a really nice too. However, there is basically **no security** at all 
+  At first glance seems like a really nice tool. However, there is basically **no security** at all 
   and the authors [don't seem to understand why that might be an issue](https://github.com/dashersw/cote/issues/53)!
   
   I'll be avoiding this one thanks, there are enough securty problems around, I don't want to add to them. 

@@ -5,7 +5,7 @@ To best view these lists, please use the [Github Pages version](https://totallyi
 
 ## My Lists of Awesome
 - [Node.js Backend Modules](nodejs-backend-modules.md)
-- [Windows Application](windows-apps.md)
+- [Windows Applications](windows-apps.md)
 
 ## My Avoid Lists
 - [Web/Cloud Services to **Avoid**](web-avoid.md)
