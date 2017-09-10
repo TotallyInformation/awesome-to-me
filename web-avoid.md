@@ -31,6 +31,8 @@ Nothing yet.
   pretty good value although the ongoing cost of £60-£300 per year for the cloud services might not be to everyone's
   taste. But £30 for a door sensor, £20-40 for a light? £40 for a plug!!
 
+  Last checked 2017-09-10
+
 ## Corrections and Contributions
 - Corrections are always gratefully recieved
 - Please check for duplicates before suggesting a new contribution
