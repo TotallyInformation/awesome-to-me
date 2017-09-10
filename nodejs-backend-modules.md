@@ -17,7 +17,10 @@ professional recommendation.
 Complete servers ready to use.
 - [Node-RED](https://nodered.org/)
   Top of my list. Graphical, flow-based development tool. Originally developed at IBM to showcase MQTT and IoT.
+  More recently gaining popularity for creating web interfaces, bots and manipulating data. Donated to the
+  [JavaScript Foundation](https://js.foundation/community/projects) but still gets developer time from IBM.
   
+  A truely awesome tool. Even if you have little programming experience, you will find you can do a lot with this.
   I've made some contributions to new nodes, the forums, documentation and I use this for my Home Automation setup.
 
 - [TiddlyWiki](http://tiddlywiki.com/) - A reusable non-linear personal web notebook. 

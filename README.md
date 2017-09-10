@@ -15,7 +15,7 @@ To best view these lists, please use the [Github Pages version](https://totallyi
 ## Other People's Lists
 Check my lists for additional lists. These are ones that don't (yet) fit into my own but I want to keep to hand for future use.
 - [Awesome Self-Hosted](https://github.com/Kickball/awesome-selfhosted) - 
-   A list of Free Software network services and web applications which can be hosted locally.
+  A list of Free Software network services and web applications which can be hosted locally.
 
   Includes email, web serevrs, Groupware, IM and much more.
   
