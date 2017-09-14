@@ -35,6 +35,8 @@ All of these applications work on Chrome for Windows 10.
 Browsing securely is quite a tall ask from any general purpose OS and browser.
 These extensions and configuration should help.
 
+You might also want to check out the [EFF Privacy Starter Pack](https://ssd.eff.org/en/playlist/want-security-starter-pack).
+
 - [WebRTC Network Limiter](https://chrome.google.com/webstore/detail/webrtc-network-limiter/npeicpdbkakmehahjeeohfdhnlpdklia) - 
   WebRTC is an open media standard. However it leaks information such as your internal IP addresses and should be blocked if you want to stay
   completely secure.
