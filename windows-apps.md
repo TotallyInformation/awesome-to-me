@@ -10,6 +10,7 @@ All of these applications work on Windows 10.
   - [Office](#office)
   - [Development](#development)
   - [ETL, Data Cleansing and Manipulation](#etl-data-cleansing-and-manipulation)
+  - [Miscellaneous](#miscellaneous)
 - [Contributing](#corrections-and-contributions)
 - [License](#license)
 
@@ -63,6 +64,9 @@ Tools to build or prototype other applications and services
 Tools to get hold of, alter and write out data (Extract, Transform, Load - ETL)
 
 - Microsoft Excel - v2016 now contains [PowerQuery](https://support.office.com/en-gb/article/Introduction-to-Microsoft-Power-Query-for-Excel-6e92e2f4-2079-4e1f-bad5-89f6269cd605) which is a very powerful point & click (& query language) based data manipulation capability.
+
+### Miscellaneous
+- [Browser Addins and Configuration (Chrome)](browser-chrome.md)
 
 ## Corrections and Contributions
 - Corrections are always gratefully received
