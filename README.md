@@ -6,9 +6,11 @@ To best view these lists, please use the [Github Pages version](https://totallyi
 ## My Lists of Awesome
 - [Node.js Backend Modules](nodejs-backend-modules.md)
 - [Windows Applications](windows-apps.md)
+- [Security and Privacy](security-privacy.md)
 
 ## My Avoid Lists
 - [Web/Cloud Services to **Avoid**](web-avoid.md)
+- [Security and Privacy Services and Applications to **Avoid**](security-avoid.md)
 - [Node.js Backend Modules to **Avoid**](nodejs-backend-avoid.md)
 - [Windows Applications to **Avoid**](windows-avoid.md)
 
