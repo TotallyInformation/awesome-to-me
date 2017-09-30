@@ -5,6 +5,7 @@ To best view these lists, please use the [Github Pages version](https://totallyi
 
 ## My Lists of Awesome
 - [Node.js Backend Modules](nodejs-backend-modules.md)
+- [Node-RED Useful Nodes](node-red-useful-nodes)
 - [Windows Applications](windows-apps.md)
 - [Security and Privacy](security-privacy.md)
 
@@ -27,6 +28,8 @@ Check my lists for additional lists. These are ones that don't (yet) fit into my
   Mainly resources for simulators, board design, forums, parts search.
 
 - [Fontend-Stuff](https://github.com/TotallyInformation/frontend-stuff) - (Forked) List of frameworks and libraries, mostly JavaScript
+
+_[back to top](#awesome-to-me)_
 
 ## Corrections and Contributions
 - Corrections are always gratefully received
