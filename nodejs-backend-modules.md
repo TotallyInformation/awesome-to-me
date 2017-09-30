@@ -4,12 +4,19 @@ I find awesome for some other reason. That's not to say that you would find them
 professional recommendation.
 
 ## Contents
+<!-- TOC -->
+
 - [Awesome List of Node.js Backend Modules](#awesome-list-of-nodejs-backend-modules)
-  - [Other Lists](#other-lists)
-  - [Servers](#servers)
-  - [Frameworks](#frameworks)
-- [Contributing](#corrections-and-contributions)
-- [License](#license)
+    - [Contents](#contents)
+        - [Other Lists](#other-lists)
+        - [Servers](#servers)
+        - [Frameworks](#frameworks)
+        - [Applications](#applications)
+        - [Development Tools](#development-tools)
+    - [Corrections and Contributions](#corrections-and-contributions)
+    - [License](#license)
+
+<!-- /TOC -->
 
 ### Other Lists
 
@@ -30,6 +37,8 @@ Complete servers ready to use.
   to it. Great tool, a little complex to get your head round initially if you want to make full use of its capabilities.
   Basically wraps all the data and interactivity into a front-end html file with JavaScript doing the clever stuff.
 
+_[back to top](#contents)_
+
 ### Frameworks
 Complex modules that can be used to build systems and services
 
@@ -37,6 +46,12 @@ Complex modules that can be used to build systems and services
 Complete client-side (front-end) applications built using Node.js (probably with the help of [Electron](https://electron.atom.io/))
 - [Electron](https://electron.atom.io/) - *"Build cross platform desktop apps with JavaScript, HTML, and CSS"*
 - [Microsoft Visual Studio Code](https://code.visualstudio.com/) - Currently, my favourite code IDE and editor. Has an [awesome list of its own](https://github.com/viatsko/awesome-vscode).
+
+_[back to top](#contents)_
+
+### Development Tools
+Things that help us develop using Node.JS
+- [Browser Sync](https://www.browsersync.io)
 
 ## Corrections and Contributions
 - Corrections are always gratefully received
