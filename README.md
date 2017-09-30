@@ -26,6 +26,8 @@ Check my lists for additional lists. These are ones that don't (yet) fit into my
 - [Awesome Electronics](https://github.com/monostable/awesome-electronics) - 
   Mainly resources for simulators, board design, forums, parts search.
 
+- [Fontend-Stuff](https://github.com/TotallyInformation/frontend-stuff) - (Forked) List of frameworks and libraries, mostly JavaScript
+
 ## Corrections and Contributions
 - Corrections are always gratefully received
 - Please check for duplicates before suggesting a new contribution
