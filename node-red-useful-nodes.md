@@ -35,7 +35,7 @@ build such an interface by creating web end-points.
   between the users browser and the Node-RED server. Build around Angular v1. Very quick and easy to get going but the weight and complexity of Angluar and the limitations due to the interface to Node-RED limit the level of customisation you can achieve. Can only create a single end-point (url) but that end-point can be configured to multiple tabs.
 
 - [UIBuilder](https://github.com/TotallyInformation/node-red-contrib-uibuilder) - A single node that can be used to create many end points (urls, 1 per node instance). 
-Provides an easy way to integrate any front-end library that can be installed via npm (e.g. Vue, [Riot] (https://github.com/TotallyInformation/node-red-contrib-uibuilder/wiki/Example%3A-RiotJS), [Moon](https://github.com/TotallyInformation/node-red-contrib-uibuilder/wiki/Example%3A-MoonJS), Tachyons, ...). Provides a dedicated websockets channel for each end point with fallback to using long polling if websockets are not available (as in some secure enterprise environments).
+Provides an easy way to integrate any front-end library that can be installed via npm (e.g. Vue, [Riot](https://github.com/TotallyInformation/node-red-contrib-uibuilder/wiki/Example%3A-RiotJS), [Moon](https://github.com/TotallyInformation/node-red-contrib-uibuilder/wiki/Example%3A-MoonJS), Tachyons, ...). Provides a dedicated websockets channel for each end point with fallback to using long polling if websockets are not available (as in some secure enterprise environments).
 Comes with an example set of template files that work out of the box. JQuery and Normalize.css libraries are pre-configured.
 
 _[back to top](#contents)_
