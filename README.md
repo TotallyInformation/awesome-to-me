@@ -5,7 +5,7 @@ To best view these lists, please use the [Github Pages version](https://totallyi
 
 ## My Lists of Awesome
 - [Node.js Backend Modules](nodejs-backend-modules.md)
-- [Node-RED Useful Nodes](node-red-useful-nodes)
+- [Node-RED Useful Nodes](node-red-useful-nodes.md)
 - [Windows Applications](windows-apps.md)
 - [Security and Privacy](security-privacy.md)
 
