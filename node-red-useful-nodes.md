@@ -14,6 +14,7 @@ professional recommendation.
 - [Awesome List of Useful Node-RED Nodes](#awesome-list-of-useful-node-red-nodes)
     - [Contents](#contents)
         - [General](#general)
+        - [Data Transformation](#data-transformation)
         - [User Interface Builders](#user-interface-builders)
     - [Node Development and Testing](#node-development-and-testing)
     - [Corrections and Contributions](#corrections-and-contributions)
@@ -24,6 +25,13 @@ professional recommendation.
 ### General
 - [node-red-contrib-moment](https://github.com/TotallyInformation/node-red-contrib-moment) - Produces formatted Date/Time output using the Moment.JS library. Timezone, dst and locale aware.
   Input can be in any date/time format recognised by Moment.JS. Use to reformat dates and/or times, change timezones and do simple date/time arithmetic.
+
+_[back to top](#contents)_
+
+### Data Transformation
+- Change node (builtin) - Allows multiple properties of an incoming msg to be transformed. 
+  Includes the very powerful [JSONata](http://jsonata.org/) transform type
+- [node-red-contrib-string](https://github.com/steveorevo/node-red-contrib-string) - Allows multiple string manipulations against a single msg property using [StringJS](http://stringjs.com/).
 
 _[back to top](#contents)_
 
