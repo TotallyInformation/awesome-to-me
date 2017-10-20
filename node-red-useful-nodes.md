@@ -8,6 +8,8 @@ These nodes are ones that I either already use or think that I might find useful
 I find awesome for some other reason. That's not to say that you would find them useful or even usable, this is only my opinion not a 
 professional recommendation.
 
+See also my [list of nodes to avoid](nodejs-backend-avoid.md)!
+
 ## Contents
 <!-- TOC -->
 
