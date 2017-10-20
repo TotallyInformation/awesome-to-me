@@ -15,7 +15,9 @@ professional recommendation.
     - [Contents](#contents)
         - [General](#general)
         - [Data Transformation](#data-transformation)
+        - [Data Extraction](#data-extraction)
         - [User Interface Builders](#user-interface-builders)
+        - [Web APIs](#web-apis)
     - [Node Development and Testing](#node-development-and-testing)
     - [Corrections and Contributions](#corrections-and-contributions)
     - [License](#license)
@@ -35,6 +37,14 @@ _[back to top](#contents)_
 
 _[back to top](#contents)_
 
+### Data Extraction
+- HTTP Request node (builtin) - Allows call to a remote http end point and returns the result. 
+  Adds the ExpressJS `res` and `req` properties to the resulting `msg`.
+- [node-red-contrib-nbrowser](https://github.com/steveorevo/node-red-contrib-nbrowser) - Implements a headless browser using [NightmareJS](http://www.nightmarejs.org/).
+  Provides a number of methods for automation. For example, you could easily auto-fill a form.
+
+_[back to top](#contents)_
+
 ### User Interface Builders
 Node-RED provides an administrative and editing interface for authoring flows but has no end-user interface by default. These nodes add the capacity to easily
 build such an interface by creating web end-points.
@@ -45,6 +55,18 @@ build such an interface by creating web end-points.
 - [UIBuilder](https://github.com/TotallyInformation/node-red-contrib-uibuilder) - A single node that can be used to create many end points (urls, 1 per node instance). 
 Provides an easy way to integrate any front-end library that can be installed via npm (e.g. Vue, [Riot](https://github.com/TotallyInformation/node-red-contrib-uibuilder/wiki/Example%3A-RiotJS), [Moon](https://github.com/TotallyInformation/node-red-contrib-uibuilder/wiki/Example%3A-MoonJS), Tachyons, ...). Provides a dedicated websockets channel for each end point with fallback to using long polling if websockets are not available (as in some secure enterprise environments).
 Comes with an example set of template files that work out of the box. JQuery and Normalize.css libraries are pre-configured.
+
+_[back to top](#contents)_
+
+### Web APIs
+- [node-red-contrib-telegrambot](https://github.com/windkh/node-red-contrib-telegrambot) - Very easily build "bots" for interacting with people using the Telegram secure instant messaging service.
+
+_[back to top](#contents)_
+
+### IoT
+There are a large number of Internet of Things (IoT) nodes as this was the starting point for Node-RED within IBM.
+
+Google Home, Alexa, RFXtrx433E (and other 433MHz trancievers), serial, usb, OpenHAB, MQTT, Hue, Wemos
 
 _[back to top](#contents)_
 
