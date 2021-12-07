@@ -36,7 +36,9 @@ _[back to top](#contents)_
 - Change node (builtin) - Allows multiple properties of an incoming msg to be transformed. 
   Includes the very powerful [JSONata](http://jsonata.org/) transform type
 - [node-red-contrib-string](https://github.com/steveorevo/node-red-contrib-string) - Allows multiple string manipulations against a single msg property using [StringJS](http://stringjs.com/).
-
+- [RedCASTLE](https://github.com/PrivacyEngineering/RedCASTLE) - Allows <img src="https://render.githubusercontent.com/render/math?math=k_s">
+ anonymization of data streams ([scientific publication](https://dl.acm.org/doi/pdf/10.1145/3493369.3493601))
+ 
 _[back to top](#contents)_
 
 ### Data Extraction
